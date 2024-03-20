@@ -11,7 +11,7 @@ post.
 
 ### Dashboard - total posts, total users, total comments charts
 
-### Change theme color
+### Change theme color and search functionality
 
 <li>Admin Email : admin@admin.com</li>
 <li>Admin Password : 123456789</li>
