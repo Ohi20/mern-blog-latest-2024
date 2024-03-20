@@ -9,7 +9,7 @@ post.
 
 ### CRUD Operation - Create, Read, Update, Delete
 
-### Dashboard - total posts, total users, total comments charts
+### Dashboard - total posts, total users, total comments charts and add,update user informations.
 
 ### Change theme color and search functionality
 
