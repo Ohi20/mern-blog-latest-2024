@@ -7,7 +7,7 @@ post.
 
 ### This site contains an Admin dashboard and User dashboard
 
-### CRUD Operation - Create, Read, Update, Delete
+### CRUD Operation - Create, Read, Update, Delete posts and edit and delete comments.
 
 ### Dashboard - total posts, total users, total comments charts and add,update user informations.
 
